@@ -44,3 +44,7 @@
 # # fruits.pop()
 #
 # print(fruits)
+
+fruits = ("apple", "orange", "banana", "coconut", "lichi", "apple")
+
+print(fruits[1])
